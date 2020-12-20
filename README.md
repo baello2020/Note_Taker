@@ -53,5 +53,5 @@ please feel free to ask me any questions.
 ## Screenshot
 
 
+![screenshot](https://github.com/baello2020/Note_Taker/blob/main/assets/screenshothome.png "screenshot")
 ![screenshot](https://github.com/baello2020/Note_Taker/blob/main/assets/screenshot.png "screenshot")
-
