@@ -1,26 +1,57 @@
-# Note Taker
+# Note-Taker
+## Note Taker
 
-![Note Taker Preview](./assets/screenshot.png)
+- [Description](#Description)
+- [Installations](#Installations)
+- [Licence](#Licence)
+- [Contributing](#Contributing)
+- [User Story](#User-Story)
+- [Test](#Test)
+- [Credits](#Credits)
+- [Questions](#Questions)
 
-:link: [View the deployed project](https://www.heroku.com/home)
+## Description
 
-A simple note-taking application built with [Express](https://expressjs.com/). Users can:
-- Add notes
-- Delete notes
-- View existing notes
+Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
-A user story, acceptance criteria and starter code were given for this assignment. The starter code contained all of the front-end assets as well as a sample object in the `db.json` file.
+## Installations
 
-## Purpose
-According to the user story, this application is meant to help users organize their thoughts and keep track of tasks.
+* `npm init -y` 
+* `npm i express`
 
-## Built with
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [Bootstrap 4.5](https://getbootstrap.com/)
-- [Font Awesome 5](https://fontawesome.com/)
+## Contributing
+A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
+* ['Note Taker - Github Repo'](https://github.com/baello2020/Note_Taker)
+noe at this moment
 
-## Deployed on
-- [Heroku](https://www.heroku.com/home)
+## User-Story
 
+```
+AS A user, I want to be able to write and save notes
+
+I WANT to be able to delete notes I've written before
+
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+```
+## Licence
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Test
+
+
+## Credits
+
+Trilogy Staff Teachers and TAs
+
+## Questions
+please feel free to ask me any questions.
+* ['Visit My Portfolio'](https://baello2020.github.io/Updated_Portfolio_Page/)
+
+* Baello2020@gmail.com
+
+## Screenshot
+
+
+![Screenshot](./Assets/screenshot.PNG)
 
