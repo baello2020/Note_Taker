@@ -53,5 +53,5 @@ please feel free to ask me any questions.
 ## Screenshot
 
 
-![Screenshot](./Assets/screenshot.PNG)
+![screenshot](https://github.com/baello2020/Note_Taker/blob/main/assets/screenshot.png "screenshot")
 
