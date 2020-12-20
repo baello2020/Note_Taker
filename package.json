@@ -10,6 +10,15 @@
   "author": "Orlando Baello",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baello2020/Note_Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/baello2020/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/baello2020/Note_Taker#readme"
 }
