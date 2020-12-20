@@ -6,7 +6,7 @@
 - [Licence](#Licence)
 - [Contributing](#Contributing)
 - [User Story](#User-Story)
-- [Test](#Test)
+- [Run the App](#Test)
 - [Credits](#Credits)
 - [Questions](#Questions)
 
@@ -37,8 +37,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Test
-
+## Click on the link to run the app.
+https://still-lake-45566.herokuapp.com/
 
 ## Credits
 
