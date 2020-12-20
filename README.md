@@ -1,12 +1,11 @@
-# Note-Taker
-## Note Taker
+# Note-Taker By Orlando Baello
+## Table of Contents
 
 - [Description](#Description)
 - [Installations](#Installations)
 - [Licence](#Licence)
 - [Contributing](#Contributing)
-- [User Story](#User-Story)
-- [Run the App](#Test)
+- [Test](#Test)
 - [Credits](#Credits)
 - [Questions](#Questions)
 
@@ -23,26 +22,16 @@ Create an application that can be used to write, save, and delete notes. This ap
 A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
 * ['Note Taker - Github Repo'](https://github.com/baello2020/Note_Taker)
 noe at this moment
-
-## User-Story
-
-```
-AS A user, I want to be able to write and save notes
-
-I WANT to be able to delete notes I've written before
-
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
-```
 ## Licence
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Click on the link to run the app.
+## Test
 https://still-lake-45566.herokuapp.com/
 
 ## Credits
 
-Trilogy Staff Teachers and TAs
+Hat tip to UW / Trilogy instructor, TAs and staffs.
 
 ## Questions
 please feel free to ask me any questions.
