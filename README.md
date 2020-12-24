@@ -21,7 +21,7 @@ Create an application that can be used to write, save, and delete notes. This ap
 ## Contributing
 A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
 * ['Note Taker - Github Repo'](https://github.com/baello2020/Note_Taker)
-noe at this moment
+
 ## Licence
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -32,6 +32,7 @@ https://still-lake-45566.herokuapp.com/
 ## Credits
 
 Hat tip to UW / Trilogy instructor, TAs and staffs.
+![UW](https://github.com/baello2020/Note_Taker/blob/main/assets/UWT.jpg "UW")
 
 ## Questions
 please feel free to ask me any questions.
